@@ -2,16 +2,19 @@
 
 ## Grupo
 ### Integrantes
-* legajo - Apellido(s), Nombre(s)
+* 54913 - Campodonico, Facundo
+* 54284 - Kronemberger, Agustin
+* 54812 - Sopo, Juan Esteban
 
 ### Repositorios
-* [frontend app](http://hyperlinkToGihubOrGitlab)
-* [backend app](http://hyperlinkToGihubOrGitlab)
-*Nota*: si utiliza un monorepo indicar un solo link con fullstack app.
+* [[frontend app](http://hyperlinkToGihubOrGitlab)](https://github.com/DesarrolloLution/Frontend-App)
+* [[backend app](http://hyperlinkToGihubOrGitlab)](https://github.com/DesarrolloLution/Backend-App)
 
 ## Tema
+Sistema de gestión gastronómica simplificado
+
 ### Descripción
-*2 a 6 líneas describiendo el negocio (menos es más)*
+Aplicación web orientada a restaurantes, bares y locales gastronómicos que permite gestionar pedidos, mesas, cocina y cobros de forma simple e intuitiva. El sistema busca optimizar la operación diaria reduciendo la complejidad de soluciones existentes, enfocándose en las funcionalidades esenciales del negocio.
 
 ### Modelo
 ![imagen del modelo]()
