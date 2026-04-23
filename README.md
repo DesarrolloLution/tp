@@ -17,7 +17,7 @@ Sistema de gestión gastronómica simplificado
 Aplicación web orientada a restaurantes, bares y locales gastronómicos que permite gestionar pedidos, mesas, cocina y cobros de forma simple e intuitiva. El sistema busca optimizar la operación diaria reduciendo la complejidad de soluciones existentes, enfocándose en las funcionalidades esenciales del negocio.
 
 ### Modelo
-![imagen del modelo]()
+![imagen del modelo](D:\LUTION.png)
 
 *Nota*: incluir un link con la imagen de un modelo, puede ser modelo de dominio, diagrama de clases, DER. Si lo prefieren pueden utilizar diagramas con [Mermaid](https://mermaid.js.org) en lugar de imágenes.
 
